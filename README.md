@@ -47,9 +47,6 @@ Cada contribuição ajuda diretamente a transformar ideias inovadoras em soluç�
 
 Para fazer uma doação ou se tornar um financiador voluntário, entre em contato conosco:
 
-📧 [Entre em Contato](mailto:contact@replikai-solutions.com)  
-🌐 [Doe Agora](https://www.replika-ai-solutions.com/donate)
-
 ---
 
 ## 🇪🇸 Español
@@ -95,8 +92,6 @@ Cada contribución ayuda directamente a transformar ideas innovadoras en solucio
 
 Para hacer una donación o convertirte en un financiador voluntario, contáctanos:
 
-📧 [Contáctanos](mailto:contact@replikai-solutions.com)  
-🌐 [Dona Ahora](https://www.replika-ai-solutions.com/donate)
 
 ---
 
@@ -143,8 +138,6 @@ Every donation directly helps to turn innovative ideas into real solutions that 
 
 To make a donation or become a voluntary funder, please contact us:
 
-📧 [Contact Us](mailto:contact@replikai-solutions.com)  
-🌐 [Donate Now](https://www.replika-ai-solutions.com/donate)
 
 ---
 
